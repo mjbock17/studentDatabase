@@ -1,51 +1,51 @@
-Student_ID	First_Name	Last_Name	Phone_Number	Email_ID	Major
-804958	Leah	Frazier	202-555-0112	frazi	Computer_Science
-298099	Roland	Patterson	676-771-8656	patte	Economics
-746479	Tabitha	Mcdonald	286-227-9003	macdo	Anthropology
-137152	April	Mcbride	196-966-1808	mcbri	Physics
-827891	Cindy	Sullivan	454-914-3765	sulli	Political_Science
-372254	Hannah	Wheeler	114-816-3301	wheel	English
-709957	Clint	Jones	244-147-2737	jones	Chemistry
-490458	Felix	Duncan	612-716-1606	dunca	Math
-864248	Hope	Simpson	651-323-8772	simps	Sociology
-086198	Paula	Turner	123-456-7889	turne	Electrical_Engineering
-224470	Cindy	Carroll	321-111-1111	carro	History
-640177	Crystal	Allen	952-922-5711	allen	Psychology
-412779	Sylvester	Nelson	507-867-5309	nelso	Math
-775879	Norman	Love	448-299-6826	love1	Math
-162571	Cristina	Green	766-733-7667	green	Math
-819681	Jerome	Grant	266-233-2662	grant	Chemistry
-849625	Horace	West	742-045-6444	west1	Economics
-289648	Regina	Carpenter	194-268-0994	carpe	Statistics
-224196	Linda	Nichols	655-621-3225	nicho	Biology
-021526	Anne	Owens	112-560-5049	owens	Music
-729945	Nick	Welsh	929-289-4237	welsh	Art
-916331	Pamela	Walsh	033-271-6554	walsh	Art
-359779	Elizabeth	Alvarez	510-342-4091	alvar	Music
-660275	Beulah	Chavez	224-803-4689	chave	Biology
-219981	Ginger	Martin	256-385-1200	marti	Psychology
-369046	Gary	Peters	006-771-6829	peter	History
-893445	Bryant	Powers	750-248-2038	power	Business
-220530	Luz	Bryd	302-253-1030	byrd1	Finance
-944532	Micheal	Watson	679-140-8305	watso	Math
-600335	Keith	Jefferson	852-776-0732	jeffe	Math
-993180	Leigh	Adams	167-347-2680	adams	Computer_Science
-380861	Kyrstal	Brown	392-602-2065	brown	Computer_Science
-713257	Tony	Copeland	259-224-1290	copel	Music
-525771	Melissa	Logan	642-997-1102	logan	Business
-586536	Ashley	Cunningham	654-210-3165	cunni	Business
-409448	Guillermo	Figueroa	450-322-0648	figue	Finance
-825364	Natasha	Mckenzie	386-093-3838	mcken	History
-006786	Josephine	Davidson	075-953-3426	david	Art
-741464	Alvin	Pratt	432-995-6836	pratt	Physics
-054236	Emma	Mendez	775-332-1899	mende	Physics
-127845	Lindsey	Riley	932-963-7717	riley	English
-028977	Ricardo	Price	785-181-5958	price	Spanish
-861998	Dawn	Curtis	369-698-4355	curti	Japanese
-415162	Martha	Farmer	076-679-4240	farme	French
-107673	Rita	Mills	709-875-4223	mills	Chemistry
-180458	Marsha	Mcbride	104-873-5941	mcbri1	Psychology
-236565	Gladys	Barnett	632-775-9155	barne	Psychology
-221223	Fredrick	Gibson	600-668-9506	gibso	Psychology
-109747	Billy	Flowers	132-972-2988	flowe	Education
-213476	Andrea	Adams	039-090-5896	adam1	Education
+Student_ID	First_Name	Last_Name	Class_Year	Phone_Number	Email_ID	Major
+804958	Leah	Frazier	2019	202-555-0112	frazi	Computer_Science
+298099	Roland	Patterson	2018	676-771-8656	patte	Economics
+746479	Tabitha	Mcdonald	2020	286-227-9003	macdo	Anthropology
+137152	April	Mcbride	2020	196-966-1808	mcbri	Physics
+827891	Cindy	Sullivan	2019	454-914-3765	sulli	Political_Science
+372254	Hannah	Wheeler	2018	114-816-3301	wheel	English
+709957	Clint	Jones	2017	244-147-2737	jones	Chemistry
+490458	Felix	Duncan	2019	612-716-1606	dunca	Math
+864248	Hope	Simpson	2020	651-323-8772	simps	Sociology
+086198	Paula	Turner	2017	123-456-7889	turne	Electrical_Engineering
+224470	Cindy	Carroll	2017	321-111-1111	carro	History
+640177	Crystal	Allen	2020	952-922-5711	allen	Psychology
+412779	Sylvester	Nelson	2020	507-867-5309	nelso	Math
+775879	Norman	Love	2017	448-299-6826	love1	Math
+162571	Cristina	Green	2019	766-733-7667	green	Math
+819681	Jerome	Grant	2020	266-233-2662	grant	Chemistry
+849625	Horace	West	2017	742-045-6444	west1	Economics
+289648	Regina	Carpenter	2020	194-268-0994	carpe	Statistics
+224196	Linda	Nichols	2020	655-621-3225	nicho	Biology
+021526	Anne	Owens	2019	112-560-5049	owens	Music
+729945	Nick	Welsh	2018	929-289-4237	welsh	Art
+916331	Pamela	Walsh	2018	033-271-6554	walsh	Art
+359779	Elizabeth	Alvarez	2017	510-342-4091	alvar	Music
+660275	Beulah	Chavez	2020	224-803-4689	chave	Biology
+219981	Ginger	Martin	2020	256-385-1200	marti	Psychology
+369046	Gary	Peters	2017	006-771-6829	peter	History
+893445	Bryant	Powers	2018	750-248-2038	power	Business
+220530	Luz	Bryd	2017	302-253-1030	byrd1	Finance
+944532	Micheal	Watson	2019	679-140-8305	watso	Math
+600335	Keith	Jefferson	2017	852-776-0732	jeffe	Math
+993180	Leigh	Adams	2019	167-347-2680	adams	Computer_Science
+380861	Kyrstal	Brown	2018	392-602-2065	brown	Computer_Science
+713257	Tony	Copeland	2017	259-224-1290	copel	Music
+525771	Melissa	Logan	2020	642-997-1102	logan	Business
+586536	Ashley	Cunningham	2020	654-210-3165	cunni	Business
+409448	Guillermo	Figueroa	2019	450-322-0648	figue	Finance
+825364	Natasha	Mckenzie	2017	386-093-3838	mcken	History
+006786	Josephine	Davidson	2017	075-953-3426	david	Art
+741464	Alvin	Pratt	2020	432-995-6836	pratt	Physics
+054236	Emma	Mendez	2020	775-332-1899	mende	Physics
+127845	Lindsey	Riley	2018	932-963-7717	riley	English
+028977	Ricardo	Price	2020	785-181-5958	price	Spanish
+861998	Dawn	Curtis	2018	369-698-4355	curti	Japanese
+415162	Martha	Farmer	2017	076-679-4240	farme	French
+107673	Rita	Mills	2020	709-875-4223	mills	Chemistry
+180458	Marsha	Mcbride	2018	104-873-5941	mcbri1	Psychology
+236565	Gladys	Barnett	2018	632-775-9155	barne	Psychology
+221223	Fredrick	Gibson	2020	600-668-9506	gibso	Psychology
+109747	Billy	Flowers	2018	132-972-2988	flowe	Education
+213476	Andrea	Adams	2017	039-090-5896	adam1	Education
