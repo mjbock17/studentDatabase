@@ -15,26 +15,26 @@ def SemesterRetrieval(): #Takes the studentID and the specified semester name as
         headerCounter = headerCounter + 1
     print (header)
 
-    found = True   #used by the loops to determine whether or not to end
-    counter = 1
-    while(counter<(len(studentIDList)-1)):   #checks for the indicated student ID 
-        if ID == studentIDList[counter][0]:
-            break
-        else:
-            counter = counter + 1
-            found = False
+    found = False   
+    counterID = 0 #this varible keeps track of the row position. 
+    for i in range(len(studentIDList)): #Loop determines whether or not the ID exists
+        if(ID == str(studentIDList[i][0])):
+            found = True
+            counterID = i-1
     if found == False:
         print("There is no student associated with this ID. ")
+        
     else:
-        if semester == studentIDList[counter][2]:  #checks for the indicated semester and prints the associated scores. 
+        if semester == studentIDList[counterID][2]:  #checks for the indicated semester and prints the associated scores. 
             while(printCounter<8):
-                studentGrades = studentGrades + "\t" + studentIDList[counter][printCounter]
+                studentGrades = studentGrades + "\t" + studentIDList[counterID][printCounter]
                 printCounter = printCounter + 1
             print(studentGrades)
-        elif semester == studentIDList[counter+1][2]:
+        elif semester == studentIDList[counterID+1][2]:
             while(printCounter<8):
-                studentGrades = studentGrades + "\t" + studentIDList[counter+1][printCounter]
+                studentGrades = studentGrades + "\t" + studentIDList[counterID+1][printCounter]
                 printCounter = printCounter + 1
             print(studentGrades)
         else:
             print("This student exists but the indicated semester does not. ")
+
